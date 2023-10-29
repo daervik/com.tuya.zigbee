@@ -3,7 +3,7 @@
     "name": {
       "en": "PC Power/Reset PCIe Card"
     },
-    "class": "socket",
+    "class": "remote",
     "platforms": ["local"],
     "connectivity": ["zigbee"],
     "capabilities": [
@@ -37,7 +37,7 @@
       "learnmode": {
         "image": "{{driverAssetsPath}}/icon.svg",
         "instruction": {
-          "en": "Press the setup button for 10 seconds or switch the unit on and off five times to enter pairing mode (the LED should blink green)."
+          "en": "Press the reset button for aprox 10 seconds (the LED should start blinking)."
         }
       }
     }

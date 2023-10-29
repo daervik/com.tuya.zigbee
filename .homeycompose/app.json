@@ -19,6 +19,7 @@
       "Alecto",
       "Smart9",
       "Blitzwolf",
+	  "eWeLink",
       "Zemismart",
       "Samotech",
       "Lonsonho",
@@ -47,7 +48,9 @@
       "Christmas",
       "Socket",
       "Woox",
-      "Curtain"
+      "Curtain",
+	  "PC",
+	  "Computer"
     ]
   },
   "category": [
